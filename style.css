@@ -1,0 +1,50 @@
+body {
+    background-color: #8ecae6;
+    font-family: "Sniglet", system-ui;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #023047;
+    font-size: 28px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    color: #023047;
+    font-size:20px;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sniglet-regular {
+    font-family: "Sniglet", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+hr {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 95%;
+}
+
+.weather-container {
+    color: #8ecae6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    background-color: #f1f1f1;
+    display: inline-block;
+    padding: 20px 35px;
+    border-radius: 30px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* .header:hover {
+    background-color: #E3E3E3;
+    transform: scale(1.1);
+    transition: transform 0.2s ease-in-out;
+} */
