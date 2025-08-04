@@ -1,3 +1,2 @@
 # weather-app
-
-## this is a weather app using weather api
+this is a weather app using weather api
