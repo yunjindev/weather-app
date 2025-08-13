@@ -14,3 +14,17 @@
     box-sizing: border-box;
     font-weight: normal;;
 }
+button {
+    cursor: pointer;
+}
+
+input{
+    -webkit-appearance: none;
+}
+
+button, input{
+    border: none;
+    background: none;
+    outline: none;
+    color: inerhit;
+}
